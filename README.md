@@ -1,8 +1,14 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=pukarneupane1&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
 
 <p align="center"><a href="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5"><img src="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5.svg" alt="Total time coded since Aug 5 2023" /></a> </p>
-<h1 align="center">Hi 👋, I'm Pukar Neupane</h1>
-<h3 align="center">A passionate Web Developer from nepal.</h3>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b>Pukar Neupane</b>
+        </samp>  
+</h3>
+<p align="center" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=F7F7F7&lines=Computer+Science+Undergraduate;Full+Stack+Software+Engineer;&center=true&width=500&height=50"></a>
+</p>
 
 <img alt="coding" width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
