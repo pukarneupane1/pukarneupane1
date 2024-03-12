@@ -1,4 +1,4 @@
-https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5.svg
+<p align="center"><a href="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5"><img src="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5.svg" alt="Total time coded since Aug 5 2023" /></a> </p>
 <h1 align="center">Hi 👋, I'm Pukar Neupane</h1>
 <h3 align="center">A passionate Web Developer from nepal.</h3>
 
