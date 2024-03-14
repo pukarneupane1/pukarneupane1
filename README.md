@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=pukarneupane1&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
 
-<p align="center"><a href="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5"><img src="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5.svg" alt="Total time coded since Aug 5 2023" /></a> </p>
+<!-- <p align="center"><a href="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5"><img src="https://wakatime.com/badge/user/018e2e36-0ac0-4012-a8d8-440c6827c9d5.svg" alt="Total time coded since Aug 5 2023" /></a> </p> -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Pukar Neupane</b>
