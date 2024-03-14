@@ -18,12 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/pukar neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pukar neupane" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pukar neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pukar neupane" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pukar neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pukar neupane" height="30" width="40" /></a>
-<a href="https://fb.com/pukar neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pukar neupane" height="30" width="40" /></a>
+<a href="https://twitter.com/PukarNeupa58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pukar neupane" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pukar-neupane-125a0a281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pukar neupane" height="30" width="40" /></a>
+<a href="https://www.facebook.com/pukar.neupane.180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pukar neupane" height="30" width="40" /></a>
 <a href="https://instagram.com/pukarneupane_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pukarneupane_666" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pukar neupane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pukar neupane" height="30" width="40" /></a>
 </p>
 
 <br />
