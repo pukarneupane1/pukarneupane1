@@ -67,3 +67,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarneupane1&" alt="pukarneupane1" /></p>
 
+![snake animation](https://github.com/charitraa/charitraa/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+
