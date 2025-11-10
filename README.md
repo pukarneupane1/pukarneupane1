@@ -1,70 +1,75 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=pukarneupane1&label=Visitors&color=blue&style=flat" alt="Profile visitor" />
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b>Pukar Neupane</b>
-        </samp>  
-</h3>
-<p align="center" >
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&pause=1000&color=F7F7F7&lines=Computer+Science+Undergraduate;passionate+chess+player;&center=true&width=500&height=50"></a>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60">
 </p>
 
-<img alt="coding" width="400" align="right" src="./coding.gif">
+<h1 align="center">I’m <b>Pukar Neupane</b></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pukarneupane1&label=Profile%20views&color=0e75b6&style=flat" alt="pukarneupane1" /> </p>
-
-- 📫 How to reach me **pukarneupane@04gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/PukarNeupa58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pukar neupane" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pukar-neupane-125a0a281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pukar neupane" height="30" width="40" /></a>
-<a href="https://www.facebook.com/pukar.neupane.180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pukar neupane" height="30" width="40" /></a>
-<a href="https://instagram.com/pukarneupane_666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pukarneupane_666" height="30" width="40" /></a>
-</p>
-
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
-  <br/>
- <img align="right" width="360" src="06f21a161921919.63cd7887d0a70.gif" alt="Coding gif"/>
-
-🔭&emsp;I’m currently studying BICTE at janta multiple campus.<br/><br/>
-🌱&emsp;I’m currently focusing on Educating myself.<br/><br/>
-✌️&emsp;Enjoy to do programming and sharing knowledge. <br/><br/>
-❤️&emsp;Love to writing code and learning new skills. <br/><br/>
-💬&emsp;Ask me about anything [here](https://github.com/pukarneupane1/pukarneupane1/issues)
-
+<p align="center">
+  <samp>Computer Science Undergraduate • MERN Stack Learner • Chess Enthusiast</samp>
 </p>
 
 <br/>
-<br/>
-<br/>
 
-## Languages and Tools
-<br/>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<br/>
-<p align="left">
-  <a href="https://github.com/pukarneupane1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=F7F7F7&center=true&vCenter=true&width=520&height=45&lines=BICTE+Student;Web+Developer+in+Progress;Always+Learning+New+Things;Chess+Makes+Me+Think+Better">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pukarneupane1&show_icons=true&locale=en&layout=compact" alt="pukarneupane1" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pukarneupane1&show_icons=true&locale=en" alt="pukarneupane1" /></p>
+<!-- Coding GIF -->
+<p align="center">
+  <img src="./coding.gif" width="420"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarneupane1&" alt="pukarneupane1" /></p>
+<br/>
 
-![snake animation](https://github.com/charitraa/charitraa/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
+---
 
+## 🎯 About Me
+
+- 🎓 Studying **BICTE** at Janta Multiple Campus  
+- 🌱 Currently learning **Full-Stack Web Development (MERN)**
+- ⚡ I enjoy solving problems and building practical things
+- 📬 Email me: **pukarNeupane04@gmail.com**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,nodejs,express,react,mongodb&theme=dark" />
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=pukarneupane1&show_icons=true&theme=react&hide_border=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarneupane1&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pukarneupane1&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/PukarNeupa58"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+<a href="https://www.linkedin.com/in/pukar-neupane-125a0a281/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://www.facebook.com/pukar.neupane.180/"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+<a href="https://instagram.com/pukarneupane_666"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/charitraa/charitraa/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" />
+</p>
